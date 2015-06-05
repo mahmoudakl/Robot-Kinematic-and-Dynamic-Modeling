@@ -1,0 +1,6 @@
+G(1,1)=0
+G(2,1)=- g*m5*(d4*sin(q2 + q3) + l2*sin(q2) + l6*sin(q2 + q3)*cos(q5) + l6*cos(q2 + q3)*cos(q4)*sin(q5)) - g*m6*(d4*sin(q2 + q3) + l2*sin(q2) + d10*(sin(q2 + q3)*cos(q5) + cos(q2 + q3)*cos(q4)*sin(q5))) - g*m4*(d9*sin(q2 + q3) + l2*sin(q2)) - g*m3*(l5*sin(q2 + q3) + l2*sin(q2)) - g*l4*m2*sin(q2)
+G(3,1)=- g*m5*(d4*sin(q2 + q3) + l6*sin(q2 + q3)*cos(q5) + l6*cos(q2 + q3)*cos(q4)*sin(q5)) - g*m6*(d4*sin(q2 + q3) + d10*(sin(q2 + q3)*cos(q5) + cos(q2 + q3)*cos(q4)*sin(q5))) - d9*g*m4*sin(q2 + q3) - g*l5*m3*sin(q2 + q3)
+G(4,1)=g*sin(q2 + q3)*sin(q4)*sin(q5)*(d10*m6 + l6*m5)
+G(5,1)=-g*(cos(q2 + q3)*sin(q5) + sin(q2 + q3)*cos(q4)*cos(q5))*(d10*m6 + l6*m5)
+G(6,1)=0
